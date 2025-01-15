@@ -18,8 +18,7 @@ challenges. I like to cross my boundaries to test out my limitations.
 🌱 I’m currently learning Ract JS  
 💞️ I’m looking to collaborate on any company  
 - 📫 Contact: bishnugupta20172001@gmail.com  
-😄 Pronouns: he/him  
-⚡ Fun fact: I've learned React and my next goal is to learn Mern Stack.  
+😄 Pronouns: he/him   
 - 🛠 Skills  
 Java  
 🛠 Web Development  

@@ -9,7 +9,7 @@ from Jspiders Kolkata.
 - 🚀 My Objective  
 I’m looking for an opportunity to use
 my skills and knowledge to contribute for
-the organization I’m working in.   I’m eager to
+the organization I’m working in. I’m eager to
 learn new technologies continuously and I’m willing to tackle new 
 challenges. I like to cross my boundaries to test out my limitations.
 
